@@ -1,0 +1,17 @@
+haskell-emojis (0.1-deepin1) unstable; urgency=medium
+
+  * Rebuild
+
+ -- Deepin Packages Builder <packages@deepin.org>  Mon, 14 Nov 2022 17:38:03 +0800
+
+haskell-emojis (0.1-2) unstable; urgency=medium
+
+  * Sourceful post-NEW upload
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 09 Aug 2020 10:46:38 +0300
+
+haskell-emojis (0.1-1) unstable; urgency=low
+
+  * Initial release
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Wed, 24 Jun 2020 10:06:34 +0300
